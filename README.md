@@ -1,4 +1,4 @@
-<img align="center" alt="html5" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif"/>
+<img align="center" alt="html5" height="50%" width="50%" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif"/>
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif">
 
