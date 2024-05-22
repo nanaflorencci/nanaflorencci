@@ -1,3 +1,7 @@
+<p align="center"> 
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif">
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![nanaflorencci's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanaflorencci&show_icons=true&theme=radical)
