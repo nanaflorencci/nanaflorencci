@@ -28,7 +28,9 @@
 <img align="center" alt="html5" height="50%" width="50%" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif"/><img align="center" alt="html5" height="50%" width="50%" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## My projects:
+
 - https://github.com/nanaflorencci/PetLife.api<br/>
 - https://github.com/nanaflorencci/JoestarsBeautyFront<br/>
 - https://github.com/nanaflorencci/PandoraVVReactNative<br/>
