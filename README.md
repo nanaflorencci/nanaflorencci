@@ -16,6 +16,7 @@
 ## Technologys that I want to work with:
 <div style="display: inline_block">  
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ 
  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-FF2D20?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
