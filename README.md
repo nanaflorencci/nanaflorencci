@@ -1,4 +1,4 @@
-Technologys that I have used:
+<h5> Technologys that I have used: </h5>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div style="display: inline_block">  
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
