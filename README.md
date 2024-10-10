@@ -2,8 +2,6 @@
 
 ![nanaflorencci's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanaflorencci&show_icons=true&theme=radical)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Technologys that I have used:
 <div style="display: inline_block">  
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,8 +18,6 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Technologys that I want to work with:
 <div style="display: inline_block">  
  <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -32,14 +28,9 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
 </div><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <img align="center" alt="html5" height="50%" width="50%" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif"/><img align="center" alt="html5" height="50%" width="50%" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## My projects:
-
 - https://github.com/nanaflorencci/PetLife.api<br/>
 - https://github.com/nanaflorencci/JoestarsBeautyFront<br/>
 - https://github.com/nanaflorencci/PandoraVVReactNative<br/>
