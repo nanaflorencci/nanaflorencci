@@ -44,6 +44,7 @@
 - https://github.com/nanaflorencci/JoestarsBeautyFront<br/>
 - https://github.com/nanaflorencci/PandoraVVReactNative<br/>
 - https://github.com/nanaflorencci/FreddyFazbearsPizza<br/>
-- https://github.com/nanaflorencci/SecretGardenLibraryFront
+- https://github.com/nanaflorencci/SecretGardenLibraryFront<br/>
+- https://github.com/alexfigueirinha/utopet_frontend
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
